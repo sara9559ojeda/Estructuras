@@ -74,3 +74,7 @@ my_list.insert_at_end(4)
 
 my_list.print_list(my_list)
 
+my_list.delete(1)
+
+my_list.print_list(my_list)
+
